@@ -6,6 +6,7 @@ export default function Footer() {
           <div className="col-md-6">
             <h5>BAD PDF Reader</h5>
             <p className="small">Точное извлечение текста из сложных PDF</p>
+            <p className="small"><a href="https://fasie.ru/programs/programma-studstartup/">Создано при поддержке Фонда содействия инновациям</a></p>
           </div>
           <div className="col-md-3">
             <h5>Контакты</h5>

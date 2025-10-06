@@ -12,6 +12,6 @@ RUN npm run build
 
 RUN npm install -g http-server
 
-EXPOSE 3000
+EXPOSE 80
 
-CMD ["http-server", "build", "-p", "3000", "-a", "0.0.0.0"]
+CMD ["http-server", "build", "-p", "80", "-a", "0.0.0.0"]

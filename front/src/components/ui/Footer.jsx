@@ -28,7 +28,7 @@ export default function Footer() {
         </div>
         <hr className="my-4" />
         <div className="text-center small">
-          <p>© {new Date().getFullYear()} ООО "Загородников"</p>
+          <p>© {2025} ООО "Загородников"</p>
         </div>
       </div>
     </footer>
